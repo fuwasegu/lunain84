@@ -21,6 +21,14 @@
   </a>
 </p>
 
+- 🔭 I’m currently working on ... Yumemi Inc. in Japan
+- 🌱 I’m currently learning ... PHP, Laravel, Python, Responder, JavaScript, Svelte
+- 🏫 My schools ...
+  - Shizuoka Univ. (2017-04 ~ 2021-03)
+  - Nagasaki Nishi HighSchool (2014-04 ~ 2017-03)
+  - Junior High School attached to Nagasaki University Faculty of Education (2011-04 ~ 2014-03)
+  - Primary School attached to Nagasaki University Faculty of Education (2005-04 ~ 2011-03)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunain84&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,12 +42,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Yumemi Inc. in Japan
+- 🌱 I’m currently learning ... PHP, Laravel, Python, Responder, JavaScript, Svelte
+- 🏫 My schools ...
+  - Shizuoka Univ. (2017-04 ~ 2021-03)
+  - Nagasaki Nishi HighSchool (2014-04 ~ 2017-03)
+  - Junior High School attached to Nagasaki University Faculty of Education (2011-04 ~ 2014-03)
+  - Primary School attached to Nagasaki University Faculty of Education (2005-04 ~ 2011-03)
 -->
